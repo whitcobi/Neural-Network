@@ -2,7 +2,6 @@
 video segmentation
 分割视频和权重文件保存在网盘（网盘地址已写入报告）  
 链接：https://pan.baidu.com/s/1whBOnNBK32QHta6nBMLkxQ 提取码：7e0j  
-将原视频文件放入content/
 # citation
 @misc{mmseg2020,
     title={{MMSegmentation}: OpenMMLab Semantic Segmentation Toolbox and Benchmark},
